@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/chehakbahl/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chehakbahl/leetcode-dsa/tree/master/0202-happy-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chehakbahl/leetcode-dsa/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

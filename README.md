@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/chehakbahl/leetcode-dsa/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/chehakbahl/leetcode-dsa/tree/master/0202-happy-number) |
 | [3870-count-commas-in-range](https://github.com/chehakbahl/leetcode-dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chehakbahl/leetcode-dsa/tree/master/3871-count-commas-in-range-ii) |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/chehakbahl/leetcode-dsa/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

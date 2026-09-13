@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chehakbahl/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/chehakbahl/leetcode-dsa/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/chehakbahl/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chehakbahl/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/chehakbahl/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/chehakbahl/leetcode-dsa/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chehakbahl/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/chehakbahl/leetcode-dsa/tree/master/0202-happy-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/chehakbahl/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/chehakbahl/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

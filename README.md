@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chehakbahl/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chehakbahl/leetcode-dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/chehakbahl/leetcode-dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/chehakbahl/leetcode-dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/chehakbahl/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 ## Hash Table
 |  |

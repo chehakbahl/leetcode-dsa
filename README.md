@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chehakbahl/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/chehakbahl/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/chehakbahl/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/chehakbahl/leetcode-dsa/tree/master/0572-subtree-of-another-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/chehakbahl/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/chehakbahl/leetcode-dsa/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/chehakbahl/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/chehakbahl/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

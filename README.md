@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chehakbahl/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/chehakbahl/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/chehakbahl/leetcode-dsa/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/chehakbahl/leetcode-dsa/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -100,14 +101,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chehakbahl/leetcode-dsa/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |

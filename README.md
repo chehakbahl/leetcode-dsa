@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/chehakbahl/leetcode-dsa/tree/master/0572-subtree-of-another-tree) |
 | [0678-valid-parenthesis-string](https://github.com/chehakbahl/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chehakbahl/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/chehakbahl/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/chehakbahl/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |

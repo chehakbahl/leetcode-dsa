@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/chehakbahl/leetcode-dsa/tree/master/0029-divide-two-integers) |
 | [0202-happy-number](https://github.com/chehakbahl/leetcode-dsa/tree/master/0202-happy-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chehakbahl/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/chehakbahl/leetcode-dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/chehakbahl/leetcode-dsa/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -130,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/chehakbahl/leetcode-dsa/tree/master/0678-valid-parenthesis-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chehakbahl/leetcode-dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
